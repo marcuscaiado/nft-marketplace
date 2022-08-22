@@ -1,6 +1,6 @@
 # steamlike
 steamlike
-http://www.marcuscaiado.github.io/nft-marketplace/
+https://marcuscaiado.github.io/steamlike/
 
 ![image](https://user-images.githubusercontent.com/92039896/186015090-ad5c9ed1-c605-4b65-84d9-10104e47d798.png)
 ![image](https://user-images.githubusercontent.com/92039896/186015103-7f6aeca0-8ad4-45f9-b3c3-f8cbe8f44af5.png)
